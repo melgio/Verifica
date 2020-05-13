@@ -8,7 +8,7 @@
  	*/
 public class MelgiovanniClass {
 
-	private int b,e;
+
 	
     /**
     *
